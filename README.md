@@ -1,7 +1,7 @@
 # Amazon_Review-Sentiment
 ML project on classifying Amazon Reviews as positive, neutral or negative
 
-This is a sentiment analysis problem of training the machine in detecting positive, neutral or negative reviews.
+This is a sentiment analysis problem of training the machine in detecting multi-label classificaton: positive, neutral or negative reviews.
 In this project we will use classic ML as well as DL algorithms such as CNN and LSTM
 
 Steps on completing the proeject. 
